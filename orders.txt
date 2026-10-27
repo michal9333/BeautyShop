@@ -1,0 +1,23 @@
+Objednávka:
+Jméno: michal
+E-mail: michal@seznam.cz
+Adresa: hlava
+PSČ: 53008
+Celková cena: 7696 Kč
+Produkty:
+- Krém na obličej - 299 Kč
+- Luxusní parfém - 6799 Kč
+- Krém na obličej - 299 Kč
+- Krém na obličej - 299 Kč
+
+---
+Objednávka:
+Jméno: michal
+E-mail: jaklovsky@seznam.cz
+Adresa: hlavní
+PSČ: 53008
+Celková cena: 6799 Kč
+Produkty:
+- Luxusní parfém - 6799 Kč
+
+---
